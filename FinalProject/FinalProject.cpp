@@ -1,3 +1,8 @@
+/* 
+Matrices Calculator
+Run the Code and You'll see a little guide
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
